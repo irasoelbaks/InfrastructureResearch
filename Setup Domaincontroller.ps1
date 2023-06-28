@@ -45,3 +45,5 @@ $result = dcdiag /s:DC01 # dcdiag /s:DC01 /test:dns
         }
         [pscustomobject]$obj
     }
+
+
